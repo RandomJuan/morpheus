@@ -1,0 +1,21 @@
+# General
+.DS_Store
+
+# Dependencies Directories
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+
+# Oprional eslint cache
+.eslintcache
+
+# dotenv enviroment variables files
+.env* 
+!.envrc
+!.env.sample
+
+# Yarn
+yarn-error.log
+
