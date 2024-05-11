@@ -1,0 +1,64 @@
+[
+    {
+        "id": 1,
+        "action": "ShoppingCart",
+        "subactions": [
+            {
+                "id": 1,
+                "action": "add-to-cart"
+            },
+            {
+                "id": 2,
+                "action": "remove-from-cart"
+            },
+            {
+                "id": 3,
+                "action": "reset-cart"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "action": "ExploreMenu",
+        "subactions": [
+            {
+                "id": 4,
+                "action": "view-product-details"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "action": "PlaceOrder",
+        "subactions": [
+            {
+                "id": 5,
+                "action": "confirm-order"
+            },
+            {
+                "id": 6,
+                "action": "cancel-order"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "action": "ViewCart",
+        "subactions": [
+            {
+                "id": 7,
+                "action": "view-cart"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "action": "ExplorePromotions",
+        "subactions": [
+            {
+                "id": 8,
+                "action": "explore-promotions"
+            }
+        ]
+    }
+]

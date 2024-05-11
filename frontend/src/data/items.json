@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "name": "Aro-Smith",
+      "price": 540,
+      "imgUrl": "/imgs/arosmith.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Barba Azul",
+      "price": 570,
+      "imgUrl": "/imgs/barbaazul.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Clásica",
+      "price": 430,
+      "imgUrl": "/imgs/classic.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Janis",
+      "price": 520,
+      "imgUrl": "/imgs/janis.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Molotov",
+        "price": 540,
+        "imgUrl": "/imgs/molotov.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Rapsodia",
+        "price": 560,
+        "imgUrl": "/imgs/rapsodia.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Rocket",
+        "price": 560,
+        "imgUrl": "/imgs/rocket.jpg"
+    }
+  ]
